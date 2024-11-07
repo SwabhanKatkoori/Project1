@@ -12,7 +12,7 @@ Additive Synthesis: Pilseo Park
 ##### Score files are in score folder
 *The score files were generated with AI
 
-Full score file: [01_full.score](https://github.com/bbakpil/CSE471-Project1/blob/main/scores/01_full.score)
+Full score file: [01_full.score](https://github.com/SwabhanKatkoori/Project1/blob/main/Scores/full.score)
 
 Shorter piece file for Wavestyle Synthesizer: [02_WavetableSynthesizer](https://github.com/SwabhanKatkoori/Project1/blob/main/Scores/wavetableSynth.score)
 The effects component and all features of Wavetable Synthesizer are built off of the above score file
@@ -20,7 +20,7 @@ The effects component and all features of Wavetable Synthesizer are built off of
 ### Audio Samples
 ##### .wav files are in sounds folder
 
-[01_full](https://github.com/bbakpil/CSE471-Project1/assets/144920495/f19dff84-7ff0-4d3f-b6bd-acb6aa275091)
+[01_full](https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/full.wav)
 
 [02_WavetableSynthesizer](https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/wavetableSynth.wav)
 
@@ -30,6 +30,9 @@ The effects component and all features of Wavetable Synthesizer are built off of
 
 [05 Reverbation Effect](https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/wavetableSynthReverb.wav)
 
-
 ### Component Descriptions
-##### Component description files are in desctiptions folder
+#Effect
+The effect component resides in the Effect class where the audio flows through and provides the option to add a Compression, Noise Gating, or Reverberation effect.
+
+#Wavetable synthesis
+The wavetable provides various shapes created mathematically and can be applied to an audio stream working with envelope and pitch. The code for the wavetable synthesis resides in CToneInstrument class. Within the CToneInstrument, there is also functionality to work well with different types of XML files. 
