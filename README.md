@@ -2,7 +2,7 @@
 ### Group Member: Swabhan Katkoori
 Effects: Swabhan Katkoori
 
-Additive Synthesis: Pilseo Park
+Wavetable Synthesis: Swabhan Katkoori
 
 ### Format of Score Files
 	<note measure="1" beat="1" duration="1.0" note="C4" playbackRate="1.0" sustainLevel="0" sustainDuration="0" decay="0" releaseThreshold="0"/>
