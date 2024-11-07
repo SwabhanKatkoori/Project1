@@ -20,7 +20,7 @@ The effects component and all features of Wavetable Synthesizer are built off of
 ### Audio Samples
 ##### .wav files are in sounds folder
 
-[01_full]([https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/full.wav](https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/final.zip))
+[01_full](https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/final.zip)
 
 [02_WavetableSynthesizer](https://github.com/SwabhanKatkoori/Project1/blob/main/Sounds/wavetableSynth.wav)
 
