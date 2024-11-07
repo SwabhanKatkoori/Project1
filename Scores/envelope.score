@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="4">
+   <instrument instrument="ToneInstrument">
+      <!-- Notes with varying sustain, decay, and release parameters -->
+      <note measure="1" beat="1" duration="1.0" note="C4" sustainLevel="0.5" sustainDuration="1.0" decay="0.4" releaseThreshold="3"/>
+      <note measure="1" beat="2" duration="1.0" note="D4" sustainLevel="0.6" sustainDuration="0.8" decay="0.2" releaseThreshold="4"/>
+      <note measure="1" beat="3" duration="1.0" note="E4" sustainLevel="0.7" sustainDuration="1.2" decay="0.3" releaseThreshold="2"/>
+      <note measure="1" beat="4" duration="1.0" note="F4" sustainLevel="0.6" sustainDuration="1.0" decay="0.5" releaseThreshold="3"/>
+
+      <note measure="2" beat="1" duration="1.0" note="G4" sustainLevel="0.4" sustainDuration="0.9" decay="0.6" releaseThreshold="4"/>
+      <note measure="2" beat="2" duration="1.0" note="F4" sustainLevel="0.6" sustainDuration="1.0" decay="0.3" releaseThreshold="5"/>
+      <note measure="2" beat="3" duration="1.0" note="E4" sustainLevel="0.5" sustainDuration="0.7" decay="0.4" releaseThreshold="3"/>
+      <note measure="2" beat="4" duration="1.0" note="D4" sustainLevel="0.7" sustainDuration="1.0" decay="0.2" releaseThreshold="4"/>
+
+      <note measure="3" beat="1" duration="1.0" note="C5" sustainLevel="0.8" sustainDuration="1.1" decay="0.3" releaseThreshold="5"/>
+      <note measure="3" beat="2" duration="1.0" note="A4" sustainLevel="0.6" sustainDuration="0.8" decay="0.5" releaseThreshold="2"/>
+      <note measure="3" beat="3" duration="1.0" note="G4" sustainLevel="0.7" sustainDuration="1.0" decay="0.4" releaseThreshold="3"/>
+      <note measure="3" beat="4" duration="1.0" note="F4" sustainLevel="0.6" sustainDuration="1.0" decay="0.3" releaseThreshold="4"/>
+   </instrument>
+</score>
